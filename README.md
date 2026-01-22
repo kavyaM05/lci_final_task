@@ -111,8 +111,6 @@ Prerequisites
 
 PHP 8.2+
 
-Composer 2.x
-
 MySQL
 
 Node.js (for frontend setup, optional)
